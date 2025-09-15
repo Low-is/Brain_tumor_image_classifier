@@ -28,15 +28,16 @@ The model achieved:
 - Validation Accuracy: 95.14%
 - Validation Loss: 0.1490
 
-  These results indicate the model's strong ability to accurately classify brain MRI images, demonstrating its potential in real-world applications.
+
+These results indicate the model's strong ability to accurately classify brain MRI images, demonstrating its potential in real-world applications.
 
 
 
-  ## Model Designed to Improve Diagnostic Efficiency:
+## Model Designed to Improve Diagnostic Efficiency:
   This model was specifically designed to assist radiologists and healthcare professionals in real-time tumor detection. By automating the process of classifying MRI images as normal or tumor, the model helps to:
   - **Enhance diagnostic efficiency:** The model allows healthcare practitioners to quickly analyze large volumes of MRI images without spending extensive time manually reviewing each scan.
   - **Reduce human error:** By providing a reliable and consistent classification of tumor images, the model minimizes the risk of missed diagnoses or errors due to fatigue or oversight.
   - **Support high-throughput clinical settings:** With its ability to process a large number of images rapidly, the model is ideal for busy hospitals or medical centers with high patient volumes.
   - **Improve early detection:** The model can assist in identifying brain tumors at an earlier stage, leading to faster treatment and improved patient outcomes.
   - **Assist in monitoring:** The model can be used for monitoring tumor progression or response to treatment by evaluating changes in tumor characteristics over time.
-  By streamlining the process of tumor identification, the model reduces the workload on radiologists, allowing them to focus on more complex cases and improving overall diagnostic workflow.
+By streamlining the process of tumor identification, the model reduces the workload on radiologists, allowing them to focus on more complex cases and improving overall diagnostic workflow.
