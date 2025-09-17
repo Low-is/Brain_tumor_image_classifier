@@ -28,7 +28,7 @@ The model achieved:
 - Validation Accuracy: 95.14%
 - Validation Loss: 0.1490
 
-<img src="model.png" alt="model" width="50%"/>
+<img src="model.png" alt="model" width="300"/>
 
 These results indicate the model's strong ability to accurately classify brain MRI images, demonstrating its potential in real-world applications.
 
